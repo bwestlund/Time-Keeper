@@ -4,4 +4,6 @@ An Arduino based Job Time  Keeper program. Utilizes an Arduino Uno, four buttons
 ## **To Do List**
 - [ ] Button Inputs with Debounce
 - [ ] RTC Input over SPI
-- [ ] Setup`
+- [ ] Design Display Ouput
+- [ ] Use Ehternet Shield to send data to google docs or network drive
+
